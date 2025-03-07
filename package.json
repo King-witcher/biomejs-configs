@@ -1,0 +1,9 @@
+{
+  "name": "@giuseppelanna/biomejs-configs",
+  "version": "1.0.0",
+  "description": "My personal Biome.js configs",
+  "main": "biome.jsonc",
+  "entrypoint": "biome.jsonc",
+  "author": "Giuseppe Lanna <giuseppe.2000@hotmail.com>",
+  "license": "MIT"
+}
