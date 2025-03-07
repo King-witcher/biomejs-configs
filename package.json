@@ -1,9 +1,15 @@
 {
   "name": "@giuseppelanna/biomejs-configs",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "My personal Biome.js configs",
-  "main": "biome.jsonc",
-  "entrypoint": "biome.jsonc",
+  "scripts": {
+    "pub": "npm publish --access public"
+  },
+  "keywords": [
+    "biome",
+    "biomejs",
+    "configs"
+  ],
   "author": "Giuseppe Lanna <giuseppe.2000@hotmail.com>",
   "repository": "https://github.com/King-witcher/biomejs-configs",
   "license": "MIT"
