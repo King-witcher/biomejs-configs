@@ -6,7 +6,7 @@
     "rules": {
       "recommended": true,
       "style": {
-        "noDefaultExport": "info",
+        "noDefaultExport": "off",
         "noUselessElse": "error",
         "noNonNullAssertion": "off",
         "useImportType": "off",
