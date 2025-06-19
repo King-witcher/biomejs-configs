@@ -16,6 +16,9 @@
         "useExhaustiveDependencies": "info",
         "noUnusedImports": "warn"
       },
+      "performance": {
+        "noDelete": "off"
+      },
       "a11y": {
         "useKeyWithClickEvents": "off"
       }
